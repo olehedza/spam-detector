@@ -1,4 +1,26 @@
 .ipynb_checkpoints/
-.vscode/
-*pyc
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+__pycache__/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
 
